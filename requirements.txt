@@ -2,4 +2,3 @@ streamlit
 replicate
 pillow
 requests
-streamlit-compare-images
